@@ -1,4 +1,4 @@
-##### HI EVERYONE WELCOME TO MY PROFILE 👋
+
 ![image](https://github.com/user-attachments/assets/a5ddc04f-702d-48f7-be43-28c2f77180da)
 <!--
 **Syaa-Store/Syaa-Store** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
