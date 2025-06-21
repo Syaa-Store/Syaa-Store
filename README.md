@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+> Connect With Me
+<p align="left">
+<a href="https://www.youtube.com/c/https://www.youtube.com/@astagasyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@astagasyaa" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/crK6XHw36y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/crK6XHw36y" height="30" width="40" /></a>
+</p>
+
+
 > My Skills
 
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,8 +31,3 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=NativeScript&logoColor=black)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-> Connect With Me
-<p align="left">
-<a href="https://discord.gg/https://discord.gg/crK6XHw36y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/crK6XHw36y" height="30" width="40" /></a>
-</p>
