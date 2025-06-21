@@ -1,4 +1,4 @@
-## Hi there 👋
+##### HI EVERYONE WELCOME TO MY PROFILE 👋
 
 <!--
 **Syaa-Store/Syaa-Store** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Do You Want With [Discord](https://discord.gg/crK6XHw36y) Community
+
+![SyaaStore](https://cdn.discordapp.com/attachments/1361997213773074479/1384778652172025926/SyaaStore.png?ex=68579f9e&is=68564e1e&hm=3af41dba365182e3724684c253ee5cb28783d2055a0fee7cdb6f47adb28550a1&)
