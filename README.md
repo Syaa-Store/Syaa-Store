@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=NativeScript&logoColor=black)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-> Connect Me
+> Connect With Me
 
-![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)(https://discord.gg/crK6XHw36y)
 ![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![image](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![image](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
